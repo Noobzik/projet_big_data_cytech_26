@@ -64,6 +64,8 @@ docker compose down
 
 [![Project roadmap showing eight milestones, parallel dashboard and prediction branches, optional extensions, and transversal activities. A red dot marks M1 Foundations as the current stage.](docs/diagrams/roadmap.svg)](docs/roadmap.md)
 
+See the [detailed roadmap](docs/roadmap.md) for the task Gantt, prerequisites, and expected outputs.
+
 ## Collaborators
 
 - [Maxime CRAYSSAC](https://github.com/mcrayssac)
