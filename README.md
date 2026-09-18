@@ -62,7 +62,7 @@ docker compose down
 
 ## Roadmap
 
-To be defined.
+[![Project roadmap showing eight milestones, parallel dashboard and prediction branches, optional extensions, and transversal activities. A red dot marks M1 Foundations as the current stage.](docs/diagrams/roadmap.svg)](docs/roadmap.md)
 
 ## Collaborators
 
